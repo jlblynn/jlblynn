@@ -19,7 +19,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning [Astro](https://astro.build/), [Sveltekit](https://kit.svelte.dev/), [Supabase](https://supabase.com/), and [headless CMS](https://jamstack.org/headless-cms/).
+- 🌱 I’m currently learning [Astro](https://astro.build/), [Sveltekit](https://kit.svelte.dev/), [Qwik](https://qwik.builder.io/), [Supabase](https://supabase.com/), and [headless CMS](https://jamstack.org/headless-cms/).
 - ❤️ My _preferred_ stack revolves around __Javascript frameworks__ and __non-relational databases__.
 - 🔍 I'm interested in learning more about __open-source__, __web3__ and __decentralisation__. 
 
@@ -49,4 +49,4 @@
 | 🔗 Blockchain | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)|
 
 
-_* Degree of knowledge is subjected to stackoverflow access_ :trollface: 
+_* Degree of knowledge is subject to stackoverflow access_ :trollface: 
