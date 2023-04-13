@@ -1,4 +1,4 @@
-## I am a self-taught web developer that enjoys making __fast__, __responsive__, __static sites__ as well as __full-stack web applications__.
+## Web developer that enjoys making __fast__, __responsive__, __static sites__ as well as __full-stack web applications__.
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
